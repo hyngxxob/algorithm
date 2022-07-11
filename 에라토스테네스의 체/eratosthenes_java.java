@@ -11,7 +11,6 @@ public class HashMap {
 		// 사용자로부터의 콘솔 입력
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
-		int test = 0;
 		// n <= 1 일 때 종료
 		if(n <= 1) return;
 

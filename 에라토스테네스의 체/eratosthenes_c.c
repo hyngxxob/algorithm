@@ -19,6 +19,6 @@ int main(void)
     for(i = 2; i < SIZE; i++) {
         if(a[i] == 0) printf("%d\n", i);
     }
-    int test = 0;
+    
     return 0;
 }
